@@ -1,5 +1,6 @@
 {
   "name": "nslo-instantiate",
+  "title": "instantiate",
   "version": "0.3.0",
   "description": "make a function that creates class instances",
   "author": "Øystein Ø. Olsen <fireneslo@gmail.com>",
